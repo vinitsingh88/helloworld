@@ -1,3 +1,4 @@
+print("Enter two numbers in between which you want to guess the number")
 # while(True):
 #     n=81
 #     print("The number which you have to guess is between 'a' and 'b'")
